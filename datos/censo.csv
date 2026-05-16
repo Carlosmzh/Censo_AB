@@ -1,0 +1,41 @@
+departamento,municipio,sexo,grupo_etario,poblacion
+La Paz,El Alto,Hombre,0-14,150000
+La Paz,El Alto,Mujer,0-14,145000
+La Paz,El Alto,Hombre,15-64,250000
+La Paz,El Alto,Mujer,15-64,255000
+La Paz,La Paz,Hombre,0-14,80000
+La Paz,La Paz,Mujer,0-14,75000
+La Paz,La Paz,Hombre,15-64,200000
+La Paz,La Paz,Mujer,15-64,195000
+Santa Cruz,Santa Cruz de la Sierra,Hombre,0-14,200000
+Santa Cruz,Santa Cruz de la Sierra,Mujer,0-14,190000
+Santa Cruz,Santa Cruz de la Sierra,Hombre,15-64,300000
+Santa Cruz,Santa Cruz de la Sierra,Mujer,15-64,310000
+Cochabamba,Cochabamba,Hombre,0-14,120000
+Cochabamba,Cochabamba,Mujer,0-14,115000
+Cochabamba,Cochabamba,Hombre,15-64,180000
+Cochabamba,Cochabamba,Mujer,15-64,185000
+Potosí,Potosí,Hombre,0-14,60000
+Potosí,Potosí,Mujer,0-14,58000
+Potosí,Potosí,Hombre,15-64,90000
+Potosí,Potosí,Mujer,15-64,92000
+Chuquisaca,Sucre,Hombre,0-14,50000
+Chuquisaca,Sucre,Mujer,0-14,48000
+Chuquisaca,Sucre,Hombre,15-64,75000
+Chuquisaca,Sucre,Mujer,15-64,77000
+Tarija,Tarija,Hombre,0-14,40000
+Tarija,Tarija,Mujer,0-14,38000
+Tarija,Tarija,Hombre,15-64,60000
+Tarija,Tarija,Mujer,15-64,62000
+Oruro,Oruro,Hombre,0-14,55000
+Oruro,Oruro,Mujer,0-14,53000
+Oruro,Oruro,Hombre,15-64,82000
+Oruro,Oruro,Mujer,15-64,85000
+Beni,Trinidad,Hombre,0-14,35000
+Beni,Trinidad,Mujer,0-14,33000
+Beni,Trinidad,Hombre,15-64,52000
+Beni,Trinidad,Mujer,15-64,55000
+Pando,Cobija,Hombre,0-14,12000
+Pando,Cobija,Mujer,0-14,11000
+Pando,Cobija,Hombre,15-64,18000
+Pando,Cobija,Mujer,15-64,19000

@@ -1,0 +1,174 @@
+================================================
+        REPORTE CENSO 2024 - BOLIVIA
+================================================
+
+================================================
+DEPARTAMENTO: Beni
+================================================
+
+--- Por Municipio ---
+Municipio: Trinidad
+Población Total: 175000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 87000
+
+Sexo: Mujer
+Total: 88000
+
+--- Total Departamento ---
+Total Beni: 175000
+
+================================================
+DEPARTAMENTO: Chuquisaca
+================================================
+
+--- Por Municipio ---
+Municipio: Sucre
+Población Total: 250000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 125000
+
+Sexo: Mujer
+Total: 125000
+
+--- Total Departamento ---
+Total Chuquisaca: 250000
+
+================================================
+DEPARTAMENTO: Cochabamba
+================================================
+
+--- Por Municipio ---
+Municipio: Cochabamba
+Población Total: 600000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 300000
+
+Sexo: Mujer
+Total: 300000
+
+--- Total Departamento ---
+Total Cochabamba: 600000
+
+================================================
+DEPARTAMENTO: La Paz
+================================================
+
+--- Por Municipio ---
+Municipio: El Alto
+Población Total: 800000
+
+Municipio: La Paz
+Población Total: 550000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 680000
+
+Sexo: Mujer
+Total: 670000
+
+--- Total Departamento ---
+Total La Paz: 1350000
+
+================================================
+DEPARTAMENTO: Oruro
+================================================
+
+--- Por Municipio ---
+Municipio: Oruro
+Población Total: 275000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 137000
+
+Sexo: Mujer
+Total: 138000
+
+--- Total Departamento ---
+Total Oruro: 275000
+
+================================================
+DEPARTAMENTO: Pando
+================================================
+
+--- Por Municipio ---
+Municipio: Cobija
+Población Total: 60000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 30000
+
+Sexo: Mujer
+Total: 30000
+
+--- Total Departamento ---
+Total Pando: 60000
+
+================================================
+DEPARTAMENTO: Potosí
+================================================
+
+--- Por Municipio ---
+Municipio: Potosí
+Población Total: 300000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 150000
+
+Sexo: Mujer
+Total: 150000
+
+--- Total Departamento ---
+Total Potosí: 300000
+
+================================================
+DEPARTAMENTO: Santa Cruz
+================================================
+
+--- Por Municipio ---
+Municipio: Santa Cruz de la Sierra
+Población Total: 1000000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 500000
+
+Sexo: Mujer
+Total: 500000
+
+--- Total Departamento ---
+Total Santa Cruz: 1000000
+
+================================================
+DEPARTAMENTO: Tarija
+================================================
+
+--- Por Municipio ---
+Municipio: Tarija
+Población Total: 200000
+
+--- Por Sexo ---
+Sexo: Hombre
+Total: 100000
+
+Sexo: Mujer
+Total: 100000
+
+--- Total Departamento ---
+Total Tarija: 200000
+
+================================================
+RESUMEN GENERAL
+================================================
+Total Nacional: 4210000
+Registros Procesados: 40
